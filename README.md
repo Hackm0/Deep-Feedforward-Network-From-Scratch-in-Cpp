@@ -1,1 +1,1 @@
-# Deep-Feedforward-Network-From-Scratch-in-C-
+# Deep-Feedforward-Network-From-Scratch-in-C++
